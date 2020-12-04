@@ -1,0 +1,12 @@
+{
+  "name": "Prova",
+  "displayName": "Prova",
+  "expo": {
+    "name": "Prova",
+    "slug": "Prova",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
